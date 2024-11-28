@@ -1,0 +1,222 @@
+{
+    "blockchain": [
+        {
+            "index": 0,
+            "timestamp": 1725345332.658233,
+            "transactions": [
+                {
+                    "sender": "syn_genesis",
+                    "recipient": "syn00khyhdxhah7vrnqa59ac6rvuhl5k8gpdhjezct",
+                    "amount": 500000,
+                    "model_id": null
+                }
+            ],
+            "previous_hash": "0",
+            "hash": "79d06ba00d17326f2c2c874a5a7d94d8ececc95af0359c5be9ffcfbab38b74ce",
+            "mining_validator": null
+        },
+        {
+            "index": 1,
+            "timestamp": 1725345435.1166306,
+            "transactions": [
+                {
+                    "sender": "syn00khyhdxhah7vrnqa59ac6rvuhl5k8gpdhjezct",
+                    "recipient": "syn1h25f60wauq4tkj5xz8ahe0rstxexensu0ly5k2",
+                    "amount": 33,
+                    "model_id": null
+                },
+                {
+                    "sender": "syn00khyhdxhah7vrnqa59ac6rvuhl5k8gpdhjezct",
+                    "recipient": "syn1h25f60wauq4tkj5xz8ahe0rstxexensu0ly5k2",
+                    "amount": 33,
+                    "model_id": null
+                },
+                {
+                    "sender": "syn00khyhdxhah7vrnqa59ac6rvuhl5k8gpdhjezct",
+                    "recipient": "syn1h25f60wauq4tkj5xz8ahe0rstxexensu0ly5k2",
+                    "amount": 33,
+                    "model_id": null
+                },
+                {
+                    "sender": "syn00khyhdxhah7vrnqa59ac6rvuhl5k8gpdhjezct",
+                    "recipient": "syn1h25f60wauq4tkj5xz8ahe0rstxexensu0ly5k2",
+                    "amount": 33,
+                    "model_id": null
+                },
+                {
+                    "sender": "syn00khyhdxhah7vrnqa59ac6rvuhl5k8gpdhjezct",
+                    "recipient": "syn1h25f60wauq4tkj5xz8ahe0rstxexensu0ly5k2",
+                    "amount": 33,
+                    "model_id": null
+                }
+            ],
+            "previous_hash": "79d06ba00d17326f2c2c874a5a7d94d8ececc95af0359c5be9ffcfbab38b74ce",
+            "hash": "0f60d7b9306cb38136ae9fe364139aba0bdbaa6dba82bbf4f5cedcaaa766e570",
+            "mining_validator": null
+        },
+        {
+            "index": 2,
+            "timestamp": 1725345441.481497,
+            "transactions": [
+                {
+                    "sender": "syn00khyhdxhah7vrnqa59ac6rvuhl5k8gpdhjezct",
+                    "recipient": "syn1h25f60wauq4tkj5xz8ahe0rstxexensu0ly5k2",
+                    "amount": 33,
+                    "model_id": null
+                },
+                {
+                    "sender": "syn00khyhdxhah7vrnqa59ac6rvuhl5k8gpdhjezct",
+                    "recipient": "syn1h25f60wauq4tkj5xz8ahe0rstxexensu0ly5k2",
+                    "amount": 33,
+                    "model_id": null
+                }
+            ],
+            "previous_hash": "0f60d7b9306cb38136ae9fe364139aba0bdbaa6dba82bbf4f5cedcaaa766e570",
+            "hash": "b3eed878b1dc13554481c1597dd064e8890a0f3d3a22163f06baab9e419e3c50",
+            "mining_validator": null
+        },
+        {
+            "index": 3,
+            "timestamp": 1725345781.923805,
+            "transactions": [
+                {
+                    "sender": "syn00khyhdxhah7vrnqa59ac6rvuhl5k8gpdhjezct",
+                    "recipient": "syn1h25f60wauq4tkj5xz8ahe0rstxexensu0ly5k2",
+                    "amount": 33,
+                    "model_id": null
+                },
+                {
+                    "sender": "syn00khyhdxhah7vrnqa59ac6rvuhl5k8gpdhjezct",
+                    "recipient": "syn1h25f60wauq4tkj5xz8ahe0rstxexensu0ly5k2",
+                    "amount": 33,
+                    "model_id": null
+                },
+                {
+                    "sender": "syn00khyhdxhah7vrnqa59ac6rvuhl5k8gpdhjezct",
+                    "recipient": "syn1h25f60wauq4tkj5xz8ahe0rstxexensu0ly5k2",
+                    "amount": 33,
+                    "model_id": null
+                },
+                {
+                    "sender": "syn00khyhdxhah7vrnqa59ac6rvuhl5k8gpdhjezct",
+                    "recipient": "syn1h25f60wauq4tkj5xz8ahe0rstxexensu0ly5k2",
+                    "amount": 33,
+                    "model_id": null
+                },
+                {
+                    "sender": "syn00khyhdxhah7vrnqa59ac6rvuhl5k8gpdhjezct",
+                    "recipient": "syn1h25f60wauq4tkj5xz8ahe0rstxexensu0ly5k2",
+                    "amount": 33,
+                    "model_id": null
+                }
+            ],
+            "previous_hash": "b3eed878b1dc13554481c1597dd064e8890a0f3d3a22163f06baab9e419e3c50",
+            "hash": "966d7058386b8a5a41df50390cfd5e19fa72fd574667c6842ee10d74a21382ef",
+            "mining_validator": null
+        },
+        {
+            "index": 4,
+            "timestamp": 1725345786.544855,
+            "transactions": [
+                {
+                    "sender": "syn00khyhdxhah7vrnqa59ac6rvuhl5k8gpdhjezct",
+                    "recipient": "syn1h25f60wauq4tkj5xz8ahe0rstxexensu0ly5k2",
+                    "amount": 33,
+                    "model_id": null
+                },
+                {
+                    "sender": "syn00khyhdxhah7vrnqa59ac6rvuhl5k8gpdhjezct",
+                    "recipient": "syn1h25f60wauq4tkj5xz8ahe0rstxexensu0ly5k2",
+                    "amount": 33,
+                    "model_id": null
+                },
+                {
+                    "sender": "syn00khyhdxhah7vrnqa59ac6rvuhl5k8gpdhjezct",
+                    "recipient": "syn1h25f60wauq4tkj5xz8ahe0rstxexensu0ly5k2",
+                    "amount": 33,
+                    "model_id": null
+                },
+                {
+                    "sender": "syn00khyhdxhah7vrnqa59ac6rvuhl5k8gpdhjezct",
+                    "recipient": "syn1h25f60wauq4tkj5xz8ahe0rstxexensu0ly5k2",
+                    "amount": 33,
+                    "model_id": null
+                },
+                {
+                    "sender": "syn00khyhdxhah7vrnqa59ac6rvuhl5k8gpdhjezct",
+                    "recipient": "syn1h25f60wauq4tkj5xz8ahe0rstxexensu0ly5k2",
+                    "amount": 33,
+                    "model_id": null
+                }
+            ],
+            "previous_hash": "966d7058386b8a5a41df50390cfd5e19fa72fd574667c6842ee10d74a21382ef",
+            "hash": "1a41d3c87bba5b4df88a3cc7438b3f08530839dbb5c2530657860b3d7b3805ad",
+            "mining_validator": null
+        },
+        {
+            "index": 5,
+            "timestamp": 1725346270.8097231,
+            "transactions": [
+                {
+                    "sender": "syn00khyhdxhah7vrnqa59ac6rvuhl5k8gpdhjezct",
+                    "recipient": "syn1h25f60wauq4tkj5xz8ahe0rstxexensu0ly5k2",
+                    "amount": 33,
+                    "model_id": null
+                },
+                {
+                    "sender": "syn00khyhdxhah7vrnqa59ac6rvuhl5k8gpdhjezct",
+                    "recipient": "syn1h25f60wauq4tkj5xz8ahe0rstxexensu0ly5k2",
+                    "amount": 33000,
+                    "model_id": null
+                },
+                {
+                    "sender": "syn00khyhdxhah7vrnqa59ac6rvuhl5k8gpdhjezct",
+                    "recipient": "syn1h25f60wauq4tkj5xz8ahe0rstxexensu0ly5k2",
+                    "amount": 33000,
+                    "model_id": null
+                },
+                {
+                    "sender": "syn00khyhdxhah7vrnqa59ac6rvuhl5k8gpdhjezct",
+                    "recipient": "syn1h25f60wauq4tkj5xz8ahe0rstxexensu0ly5k2",
+                    "amount": 33000,
+                    "model_id": null
+                },
+                {
+                    "sender": "syn00khyhdxhah7vrnqa59ac6rvuhl5k8gpdhjezct",
+                    "recipient": "syn1h25f60wauq4tkj5xz8ahe0rstxexensu0ly5k2",
+                    "amount": 33,
+                    "model_id": null
+                }
+            ],
+            "previous_hash": "1a41d3c87bba5b4df88a3cc7438b3f08530839dbb5c2530657860b3d7b3805ad",
+            "hash": "57baa31273236d7b7d76eaecf1d358f240d061cee013eec0ace18adfe6ed9995",
+            "mining_validator": null
+        },
+        {
+            "index": 6,
+            "timestamp": 1725346313.200947,
+            "transactions": [
+                {
+                    "sender": "syn00khyhdxhah7vrnqa59ac6rvuhl5k8gpdhjezct",
+                    "recipient": "syn1h25f60wauq4tkj5xz8ahe0rstxexensu0ly5k2",
+                    "amount": 303,
+                    "model_id": null
+                }
+            ],
+            "previous_hash": "57baa31273236d7b7d76eaecf1d358f240d061cee013eec0ace18adfe6ed9995",
+            "hash": "7761ea9c3836994d76bebe2e294962609edcbfb42b8c2cd86fa26606fd752ab7",
+            "mining_validator": null
+        }
+    ],
+    "pending_transactions": [],
+    "wallets": [
+        {
+            "address": "syn00khyhdxhah7vrnqa59ac6rvuhl5k8gpdhjezct",
+            "balance": 899070
+        },
+        {
+            "address": "syn1h25f60wauq4tkj5xz8ahe0rstxexensu0ly5k2",
+            "balance": 99930
+        }
+    ]
+}
