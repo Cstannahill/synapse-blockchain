@@ -103,4 +103,4 @@ Learn and apply more advanced Python development practices.
 This project is inspired by the desire to understand blockchain technology from the ground up while gaining practical experience with Python. It serves as a learning tool and a stepping stone toward contributing meaningfully to the blockchain ecosystem.
 
 ## Final Notes
-While Synapse Blockchain is still in its infancy, it represents a strong foundation for exploring decentralized technologies. By focusing on innovative features and real-world applications, the project aspires to grow beyond a learning tool into a meaningful contribution to the blockchain space.
+While Synapse Blockchain is still in its infancy, it represents a strong foundation for exploring decentralized technologies. By focusing on practical milestones like a data marketplace and tokenomics, alongside ambitious ideas like Proof of Data and AI-driven evaluation, the project aspires to grow into a meaningful contribution to the blockchain and AI landscape.
